@@ -1,0 +1,14 @@
+{
+    "author": {
+        "name": "KarthickTechie"
+    },
+    "scripts": {
+        "build" : "tsc"
+    },
+    "main": "src/index.js",
+    "type": "module",
+    "version": "0.0.1",
+    "devDependencies": {
+        "typescript": "^5.5.3"
+    }
+}
