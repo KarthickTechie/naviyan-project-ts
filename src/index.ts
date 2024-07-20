@@ -1,3 +1,3 @@
-console.log("Hello world..!!")
-
-export const config = {scope:'holla..'}
+console.log("Hello world..!!");
+console.log(" helloo   ");
+export const config = { scope: "holla.." };

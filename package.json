@@ -1,14 +1,19 @@
 {
-    "author": {
-        "name": "KarthickTechie"
-    },
-    "scripts": {
-        "build" : "tsc"
-    },
-    "main": "src/index.js",
-    "type": "module",
-    "version": "0.0.1",
-    "devDependencies": {
-        "typescript": "^5.5.3"
-    }
+  "author": {
+    "name": "KarthickTechie"
+  },
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write ."
+  },
+  "main": "src/index.js",
+  "type": "module",
+  "version": "0.0.1",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "prettier": "^3.3.3",
+    "save-dev": "^0.0.1-security"
+  }
 }
